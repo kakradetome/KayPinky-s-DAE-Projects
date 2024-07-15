@@ -1,0 +1,15 @@
+body {
+    color: hotpink;
+}
+
+ul {
+    /* border: 1px solid black; */
+    text-align: right;
+}
+
+li {
+    list-style-type: none;
+    /* border: 1px solid red; */
+    display: inline;
+    margin: 0px 30px 0px 0px; /* TOP RIGHT BOTTOM LEFT */
+}
